@@ -1,4 +1,11 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+/* Global styles applied to the whole application */
+body {
+  margin: 0;
+  font-family: sans-serif;
+}
+
 /* You can add global styles to this file, and also import other style files */

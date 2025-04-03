@@ -61,7 +61,10 @@
         },
         "development": {
           "buildTarget": "angular-remote:build:development",
-          "port": 4202
+          "port": 4202,
+          "ssl": true,
+          "sslCert": "localhost.pem",
+          "sslKey": "localhost-key.pem"
         }
       },
       "defaultConfiguration": "development"
