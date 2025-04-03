@@ -2,7 +2,9 @@
   "name": "@react-remote/source",
   "version": "0.0.0",
   "license": "MIT",
-  "scripts": {},
+  "scripts": {
+    "start": "nx serve --project=react-remote"
+  },
   "private": true,
   "dependencies": {
     "react": "19.0.0",

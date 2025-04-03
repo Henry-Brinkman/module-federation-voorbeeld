@@ -60,7 +60,8 @@
           "buildTarget": "angular-remote:build:production"
         },
         "development": {
-          "buildTarget": "angular-remote:build:development"
+          "buildTarget": "angular-remote:build:development",
+          "port": 4202
         }
       },
       "defaultConfiguration": "development"
@@ -90,6 +91,6 @@
         "buildTarget": "angular-remote:build",
         "spa": true
       }
-    }
+   }
   }
 }
