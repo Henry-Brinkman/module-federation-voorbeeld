@@ -4,7 +4,7 @@
   "files": [],
   "references": [
     {
-      "path": "./apps/react-remote"
+      "path": "./apps/myReactRemote"
     }
   ]
 }
