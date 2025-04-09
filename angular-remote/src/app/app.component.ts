@@ -6,6 +6,7 @@ import { RouterModule } from '@angular/router';
   selector: 'app-root',
   templateUrl: './app.component.html',
   styleUrl: './app.component.scss',
+  standalone: true
 })
 export class AppComponent {
   title = 'angular-remote';
